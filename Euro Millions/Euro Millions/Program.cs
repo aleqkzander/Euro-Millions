@@ -45,6 +45,3 @@ string SelectionSpecial = Selections.Item2;
 
 // Print selection to console
 Console.WriteLine($"Normal: {SelectionNormal}\nSpecial: {SelectionSpecial}");
-
-
-while (true) Console.ReadLine();
